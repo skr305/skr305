@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm skr305</h1>
 <h3 align="center">a noob frontend</h3>
-### I'M A NOOB
-however, there are many interesting things 
 
-+ # be happy guy
+### I'm a noob
+### however, There are still many happy things around
+
++ # I wish you also find happiness in programming
++ # have fun dude
 ![ DIANA ](./assets/diana.gif)
+
 
 ### 每天都是活著的重要里程碑和不可或缺的節點
 ### Jokainen päivä on tärkeä virstanpylväs ja välttämätön elämän solmu
