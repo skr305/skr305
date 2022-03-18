@@ -3,7 +3,7 @@
 
 ### I'm a noob
 ### however, There are still many happy things around
-<img align='right' src="./assets/diana.gif" width="450px"> </img>
+<img align='right' src="./assets/diana.gif" width="270px"> </img>
 + # I wish you also find happiness in programming
 + # have fun dude
 
