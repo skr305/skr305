@@ -3,10 +3,9 @@
 
 ### I'm a noob
 ### however, There are still many happy things around
-
+<img align='right' src="./assets/diana.gif" width="450px"> </img>
 + # I wish you also find happiness in programming
 + # have fun dude
-![ DIANA ](./assets/diana.gif)
 
 
 ### 每天都是活著的重要里程碑和不可或缺的節點
