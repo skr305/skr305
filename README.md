@@ -1,3 +1,3 @@
-# Face the problem sincerely and have hope
+# Face the problem sincerely
 
 > ENJOY LIFE!
